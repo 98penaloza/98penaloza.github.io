@@ -26,6 +26,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](https://github.com/98penaloza/98penaloza.github.io/blob/main/my_graph.png?raw=true)
 ```
 
+[Image](https://github.com/98penaloza/98penaloza.github.io/blob/main/my_graph.png?raw=true)
+
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
